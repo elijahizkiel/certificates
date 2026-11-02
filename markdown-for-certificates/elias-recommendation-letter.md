@@ -8,8 +8,8 @@ date: "2025-11-05"
 reference_no: "letout-gen-00018"
 category: "Recommendation Letter"
 asset_filename: "Elias Recommendation Letter.pdf"
-asset_url: "https://raw.githubusercontent.com/elijahizkiel/certificates/main/Elias%20Recommendation%20Letter.pdf"
-source_url: "https://github.com/elijahizkiel/certificates/blob/main/Elias%20Recommendation%20Letter.pdf"
+asset_url: "https://raw.githubusercontent.com/elijahizkiel/certificates/main/elias-recommendation-letter.pdf"
+source_url: "https://github.com/elijahizkiel/certificates/blob/main/elias-recommendation-letter.pdf"
 verified: true
 published: true
 ---
@@ -110,4 +110,4 @@ Bole, Dembel, Tg’s Bldg 12th floor
 - **Official Phone Contacts:**
   - `+251 910-81-35-71`
   - `+251 910-78-76-62`
-- **Original PDF Document:** [`certificates/Elias Recommendation Letter.pdf`](https://github.com/elijahizkiel/certificates/blob/main/Elias%20Recommendation%20Letter.pdf)
+- **Original PDF Document:** [`certificates/Elias Recommendation Letter.pdf`](https://github.com/elijahizkiel/certificates/blob/main/elias-recommendation-letter.pdf)
