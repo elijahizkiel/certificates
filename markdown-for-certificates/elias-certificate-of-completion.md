@@ -8,15 +8,15 @@ project: "AlikoHub Project"
 category: "Internship & Professional Experience"
 date: "2025-08-31"
 asset_filename: "Elias Certificate of Completion.png"
-asset_url: "https://raw.githubusercontent.com/elijahizkiel/certificates/main/Elias%20Certificate%20of%20Completion.png"
-source_url: "https://github.com/elijahizkiel/certificates/blob/main/Elias%20Certificate%20of%20Completion.png"
+asset_url: "https://raw.githubusercontent.com/elijahizkiel/certificates/main/elias-certificate-of-completion.png"
+source_url: "https://github.com/elijahizkiel/certificates/blob/main/elias-certificate-of-completion.png"
 verification_status: "Verified Credential"
 published: true
 ---
 
 # Certificate of Completion — Frontend Development Internship
 
-![Certificate of Completion](https://raw.githubusercontent.com/elijahizkiel/certificates/main/Elias%20Certificate%20of%20Completion.png)
+![Certificate of Completion](https://raw.githubusercontent.com/elijahizkiel/certificates/main/elias-certificate-of-completion.png)
 
 ## Overview
 
@@ -74,4 +74,4 @@ During his tenure at GenShifter Technologies, Elias served as a foundational fro
 - **Executive Endorsements:**
   - **Abdi Aliko** — Chief Executive Officer (CEO), GenShifter Technologies
   - **Boni Aliko** — Chief Operating Officer (COO), GenShifter Technologies
-- **Repository Location:** [`certificates/Elias Certificate of Completion.png`](https://github.com/elijahizkiel/certificates/blob/main/Elias%20Certificate%20of%20Completion.png)
+- **Repository Location:** [`certificates/Elias Certificate of Completion.png`](https://github.com/elijahizkiel/certificates/blob/main/elias-certificate-of-completion.png)
